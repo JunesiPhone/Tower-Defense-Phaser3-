@@ -7,7 +7,7 @@ var towerD = {
     path,
     enemies,
     towers,
-    levelCount = 5,
+    levelCount = 8,
     levelPlaying = false,
     levelPaused = false,
     levelReference,
